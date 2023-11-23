@@ -1,0 +1,18 @@
+begin
+    print("Chào mừng bạn đến với trang web bán cây thuốc nam!")
+    print("Chúng tôi cung cấp đầy đủ các loại cây thuốc nam phục vụ cho sức khỏe của bạn.")
+    
+    // Hiển thị danh sách sản phẩm
+    display_product_list()
+    
+    // Tìm kiếm sản phẩm
+    search_product()
+    
+    // Thêm sản phẩm vào giỏ hàng
+    add_product_to_cart()
+    
+    // Xem giỏ hàng và thực hiện thanh toán
+    view_cart_and_checkout()
+    
+    print("Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi. Hẹn gặp lại!")
+end
